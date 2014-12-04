@@ -38,7 +38,7 @@ import java.util.Collections;
 import java.util.List;
 
 @State(Scope.Thread)
-public class MyBenchmark {
+public class MyCollectionBenchmark {
 
 
     private ArrayList<Double> arrayList;
